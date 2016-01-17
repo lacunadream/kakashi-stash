@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-oauth",
+  "version": "1.0.0",
+  "description": "oauth test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ld",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node-linkedin": "^0.5.3"
+  }
+}
