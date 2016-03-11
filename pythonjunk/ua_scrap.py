@@ -5,28 +5,29 @@ import logging
 # GLOBALS
 baseURL = 'https://udger.com'
 logging.basicConfig(level =logging.DEBUG)
+UALIST = []
 
-# r = requests.get("https://udger.com/resources/ua-list")
-# soup = bs4.BeautifulSoup(r.content, "lxml")
+# INTIAL URLs GRAB
+r = requests.get("https://udger.com/resources/ua-list")
+soup = bs4.BeautifulSoup(r.content, "lxml")
 
-# name = soup.findAll("td")
-# name = [x.find("a") for x in name]
-# # print(name)
-# out = []
-# for x in name: 
-# 	try:
-# 		if x.find('href') != -1:
-# 			out.append(x)
-# 	except: 
-# 		pass
+name = soup.findAll("td")
+name = [x.find("a") for x in name]
+# print(name)
+out = []
+for x in name: 
+	try:
+		if x.find('href') != -1:
+			out.append(x)
+	except: 
+		pass
 
+out = out[1:193]
+urls = [x['href'] for x in out]
+print(urls)
+print(type(urls), type(out))
 
-# out = out[1:193]
-# urls = [x['href'] for x in out]
-# print(urls)
-# print(type(urls), type(out))
-
-
+# individual page method
 def indivPageScrap(link):
 	r = requests.get(baseURL + link)
 	soup = bs4.BeautifulSoup(r.content, "lxml")
@@ -43,28 +44,15 @@ def indivPageScrap(link):
 
 	return final
 
+# putting everything together
+for x in urls: 
+	k = indivPageScrap(x)
+	UALIST.extend(k)
 
-
-
-# r = requests.get(baseURL + '/resources/ua-list/browser-detail?browser=360 browser')
-# soup = bs4.BeautifulSoup(r.content, "lxml")
-
-
-
-# data = soup.findAll("p")
-# logging.debug(data)
-# data = [x.find("a") for x in data]
-# logging.debug(data)
-# data = [x.contents for x in data]
-# logging.debug(data)
-# data = data[:(len(data)-1)]
-# logging.debug(data)
-# final =[]
-# for x in data: 
-# 	x = ','.join(x)
-# 	final.append(x)
-# logging.debug(final)
-
+print(UALIST)
+f = open('useragents.txt', 'w')
+f.write(UALIST)
+f.close()
 
 
 
