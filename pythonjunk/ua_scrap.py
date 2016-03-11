@@ -1,6 +1,7 @@
 import requests
 import bs4
 import logging
+import threading
 
 # GLOBALS
 baseURL = 'https://udger.com'
@@ -28,7 +29,7 @@ print(urls)
 print(type(urls), type(out))
 
 # individual page method
-def indivPageScrap(link):
+def indivPageScrap(link, UALIST):
 	r = requests.get(baseURL + link)
 	soup = bs4.BeautifulSoup(r.content, "lxml")
 
@@ -42,18 +43,34 @@ def indivPageScrap(link):
 		x = ','.join(x)
 		final.append(x)
 
-	return final
+	UALIST.extend(final)
+	
+# putting everything together (non threading)
+# for x in urls: 
+# 	k = indivPageScrap(x)
+# 	UALIST.extend(k)
 
-# putting everything together
+# threading method
+threads = []
+
 for x in urls: 
-	k = indivPageScrap(x)
-	UALIST.extend(k)
+	t = threading.Thread(target=indivPageScrap, args=(x, UALIST))
+	threads.append(t)
 
-print(UALIST)
+for x in threads:
+	x.start()
+
+for x in threads:
+	x.join()
+
+
+print('###########', UALIST)
+print(len(UALIST))
 f = open('useragents.txt', 'w')
-f.write(UALIST)
+for agent in UALIST:
+	f.write("%s\n" % agent)
 f.close()
 
 
-
+## :) Done
 
