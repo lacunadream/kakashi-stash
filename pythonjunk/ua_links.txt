@@ -1,0 +1,192 @@
+<a href="/resources/ua-list/browser-detail?browser=360 browser">360 browser</a>
+<a href="/resources/ua-list/browser-detail?browser=3DS Browser">3DS Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Abolimba">Abolimba</a>
+<a href="/resources/ua-list/browser-detail?browser=ABrowse">ABrowse</a>
+<a href="/resources/ua-list/browser-detail?browser=Acoo Browser">Acoo Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Alienforce">Alienforce</a>
+<a href="/resources/ua-list/browser-detail?browser=Amaya">Amaya</a>
+<a href="/resources/ua-list/browser-detail?browser=Amiga Aweb">Amiga Aweb</a>
+<a href="/resources/ua-list/browser-detail?browser=Amiga Voyager">Amiga Voyager</a>
+<a href="/resources/ua-list/browser-detail?browser=Amigo">Amigo</a>
+<a href="/resources/ua-list/browser-detail?browser=ANT Fresco">ANT Fresco</a>
+<a href="/resources/ua-list/browser-detail?browser=AOL Explorer">AOL Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=Arora">Arora</a>
+<a href="/resources/ua-list/browser-detail?browser=Avant Browser">Avant Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Aviator">Aviator</a>
+<a href="/resources/ua-list/browser-detail?browser=Baidu Browser">Baidu Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Baidu Spark">Baidu Spark</a>
+<a href="/resources/ua-list/browser-detail?browser=Beamrise">Beamrise</a>
+<a href="/resources/ua-list/browser-detail?browser=Beonex">Beonex</a>
+<a href="/resources/ua-list/browser-detail?browser=Blackbird">Blackbird</a>
+<a href="/resources/ua-list/browser-detail?browser=BlackHawk">BlackHawk</a>
+<a href="/resources/ua-list/browser-detail?browser=Bolt">Bolt</a>
+<a href="/resources/ua-list/browser-detail?browser=Brave">Brave</a>
+<a href="/resources/ua-list/browser-detail?browser=BrowseX">BrowseX</a>
+<a href="/resources/ua-list/browser-detail?browser=Browzar">Browzar</a>
+<a href="/resources/ua-list/browser-detail?browser=Bunjalloo">Bunjalloo</a>
+<a href="/resources/ua-list/browser-detail?browser=Camino">Camino</a>
+<a href="/resources/ua-list/browser-detail?browser=Charon">Charon</a>
+<a href="/resources/ua-list/browser-detail?browser=Cheshire">Cheshire</a>
+<a href="/resources/ua-list/browser-detail?browser=Chrome">Chrome</a>
+<a href="/resources/ua-list/browser-detail?browser=Chromium">Chromium</a>
+<a href="/resources/ua-list/browser-detail?browser=Chromodo">Chromodo</a>
+<a href="/resources/ua-list/browser-detail?browser=Classilla">Classilla</a>
+<a href="/resources/ua-list/browser-detail?browser=Coc Coc">Coc Coc</a>
+<a href="/resources/ua-list/browser-detail?browser=Columbus">Columbus</a>
+<a href="/resources/ua-list/browser-detail?browser=CometBird">CometBird</a>
+<a href="/resources/ua-list/browser-detail?browser=Comodo Dragon">Comodo Dragon</a>
+<a href="/resources/ua-list/browser-detail?browser=Conkeror">Conkeror</a>
+<a href="/resources/ua-list/browser-detail?browser=CoolNovo">CoolNovo</a>
+<a href="/resources/ua-list/browser-detail?browser=CoRom">CoRom</a>
+<a href="/resources/ua-list/browser-detail?browser=Crazy Browser">Crazy Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Cyberfox">Cyberfox</a>
+<a href="/resources/ua-list/browser-detail?browser=Deepnet Explorer">Deepnet Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=Demeter">Demeter</a>
+<a href="/resources/ua-list/browser-detail?browser=DeskBrowse">DeskBrowse</a>
+<a href="/resources/ua-list/browser-detail?browser=Dillo">Dillo</a>
+<a href="/resources/ua-list/browser-detail?browser=DocZilla">DocZilla</a>
+<a href="/resources/ua-list/browser-detail?browser=Dooble">Dooble</a>
+<a href="/resources/ua-list/browser-detail?browser=DPlus">DPlus</a>
+<a href="/resources/ua-list/browser-detail?browser=Edbrowse">Edbrowse</a>
+<a href="/resources/ua-list/browser-detail?browser=Element Browser">Element Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Elinks">Elinks</a>
+<a href="/resources/ua-list/browser-detail?browser=Enigma browser">Enigma browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Epic">Epic</a>
+<a href="/resources/ua-list/browser-detail?browser=Epiphany">Epiphany</a>
+<a href="/resources/ua-list/browser-detail?browser=Espial TV Browser">Espial TV Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Firebird (old name for Firefox)">Firebird (old name for Firefox)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox">Firefox</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (BonEcho)">Firefox (BonEcho)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (GranParadiso)">Firefox (GranParadiso)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (Lorentz)">Firefox (Lorentz)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (Minefield)">Firefox (Minefield)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (Namoroka)">Firefox (Namoroka)</a>
+<a href="/resources/ua-list/browser-detail?browser=Firefox (Shiretoko)">Firefox (Shiretoko)</a>
+<a href="/resources/ua-list/browser-detail?browser=Fireweb Navigator">Fireweb Navigator</a>
+<a href="/resources/ua-list/browser-detail?browser=Flock">Flock</a>
+<a href="/resources/ua-list/browser-detail?browser=Fluid">Fluid</a>
+<a href="/resources/ua-list/browser-detail?browser=Galeon">Galeon</a>
+<a href="/resources/ua-list/browser-detail?browser=GlobalMojo">GlobalMojo</a>
+<a href="/resources/ua-list/browser-detail?browser=GreenBrowser">GreenBrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=HotJava">HotJava</a>
+<a href="/resources/ua-list/browser-detail?browser=Hv3">Hv3</a>
+<a href="/resources/ua-list/browser-detail?browser=Hydra Browser">Hydra Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=IBM WebExplorer">IBM WebExplorer</a>
+<a href="/resources/ua-list/browser-detail?browser=IBrowse">IBrowse</a>
+<a href="/resources/ua-list/browser-detail?browser=iCab">iCab</a>
+<a href="/resources/ua-list/browser-detail?browser=ICE browser">ICE browser</a>
+<a href="/resources/ua-list/browser-detail?browser=IceApe">IceApe</a>
+<a href="/resources/ua-list/browser-detail?browser=IceCat">IceCat</a>
+<a href="/resources/ua-list/browser-detail?browser=IceDragon">IceDragon</a>
+<a href="/resources/ua-list/browser-detail?browser=IceWeasel">IceWeasel</a>
+<a href="/resources/ua-list/browser-detail?browser=IE">IE</a>
+<a href="/resources/ua-list/browser-detail?browser=InternetSurfboard">InternetSurfboard</a>
+<a href="/resources/ua-list/browser-detail?browser=iRider">iRider</a>
+<a href="/resources/ua-list/browser-detail?browser=Iron">Iron</a>
+<a href="/resources/ua-list/browser-detail?browser=K-Meleon">K-Meleon</a>
+<a href="/resources/ua-list/browser-detail?browser=K-Ninja">K-Ninja</a>
+<a href="/resources/ua-list/browser-detail?browser=Kapiko">Kapiko</a>
+<a href="/resources/ua-list/browser-detail?browser=Kazehakase">Kazehakase</a>
+<a href="/resources/ua-list/browser-detail?browser=Kinza">Kinza</a>
+<a href="/resources/ua-list/browser-detail?browser=Kirix Strata">Kirix Strata</a>
+<a href="/resources/ua-list/browser-detail?browser=KKman">KKman</a>
+<a href="/resources/ua-list/browser-detail?browser=Konqueror">Konqueror</a>
+<a href="/resources/ua-list/browser-detail?browser=Kylo">Kylo</a>
+<a href="/resources/ua-list/browser-detail?browser=LBrowser">LBrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=LG Web Browser">LG Web Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Links">Links</a>
+<a href="/resources/ua-list/browser-detail?browser=Lobo">Lobo</a>
+<a href="/resources/ua-list/browser-detail?browser=lolifox">lolifox</a>
+<a href="/resources/ua-list/browser-detail?browser=luakit">luakit</a>
+<a href="/resources/ua-list/browser-detail?browser=Lunascape">Lunascape</a>
+<a href="/resources/ua-list/browser-detail?browser=Lynx">Lynx</a>
+<a href="/resources/ua-list/browser-detail?browser=Madfox">Madfox</a>
+<a href="/resources/ua-list/browser-detail?browser=Maple browser">Maple browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Maxthon">Maxthon</a>
+<a href="/resources/ua-list/browser-detail?browser=Microsoft Edge">Microsoft Edge</a>
+<a href="/resources/ua-list/browser-detail?browser=Midori">Midori</a>
+<a href="/resources/ua-list/browser-detail?browser=Mini Browser">Mini Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Mozilla">Mozilla</a>
+<a href="/resources/ua-list/browser-detail?browser=Multi-Browser XP">Multi-Browser XP</a>
+<a href="/resources/ua-list/browser-detail?browser=MultiZilla">MultiZilla</a>
+<a href="/resources/ua-list/browser-detail?browser=MxNitro">MxNitro</a>
+<a href="/resources/ua-list/browser-detail?browser=My Internet Browser">My Internet Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=NCSA Mosaic">NCSA Mosaic</a>
+<a href="/resources/ua-list/browser-detail?browser=NetBox">NetBox</a>
+<a href="/resources/ua-list/browser-detail?browser=NetCaptor">NetCaptor</a>
+<a href="/resources/ua-list/browser-detail?browser=NetPositive">NetPositive</a>
+<a href="/resources/ua-list/browser-detail?browser=Netscape Navigator">Netscape Navigator</a>
+<a href="/resources/ua-list/browser-detail?browser=NetSurf">NetSurf</a>
+<a href="/resources/ua-list/browser-detail?browser=Nintendo Browser">Nintendo Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Off By One">Off By One</a>
+<a href="/resources/ua-list/browser-detail?browser=OmniWeb">OmniWeb</a>
+<a href="/resources/ua-list/browser-detail?browser=Opera">Opera</a>
+<a href="/resources/ua-list/browser-detail?browser=Orca">Orca</a>
+<a href="/resources/ua-list/browser-detail?browser=Oregano">Oregano</a>
+<a href="/resources/ua-list/browser-detail?browser=Otter">Otter</a>
+<a href="/resources/ua-list/browser-detail?browser=OWB">OWB</a>
+<a href="/resources/ua-list/browser-detail?browser=Pale Moon">Pale Moon</a>
+<a href="/resources/ua-list/browser-detail?browser=Patriott">Patriott</a>
+<a href="/resources/ua-list/browser-detail?browser=Perk">Perk</a>
+<a href="/resources/ua-list/browser-detail?browser=Phaseout">Phaseout</a>
+<a href="/resources/ua-list/browser-detail?browser=Phoenix (old name for Firefox)">Phoenix (old name for Firefox)</a>
+<a href="/resources/ua-list/browser-detail?browser=PirateBrowser">PirateBrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=Polarity">Polarity</a>
+<a href="/resources/ua-list/browser-detail?browser=PS4 Web browser">PS4 Web browser</a>
+<a href="/resources/ua-list/browser-detail?browser=QtWeb">QtWeb</a>
+<a href="/resources/ua-list/browser-detail?browser=QupZilla">QupZilla</a>
+<a href="/resources/ua-list/browser-detail?browser=qutebrowser">qutebrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=Rambler browser">Rambler browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Rekonq">Rekonq</a>
+<a href="/resources/ua-list/browser-detail?browser=retawq">retawq</a>
+<a href="/resources/ua-list/browser-detail?browser=Roccat browser">Roccat browser</a>
+<a href="/resources/ua-list/browser-detail?browser=RockMelt">RockMelt</a>
+<a href="/resources/ua-list/browser-detail?browser=Ryouko">Ryouko</a>
+<a href="/resources/ua-list/browser-detail?browser=SaaYaa Explorer">SaaYaa Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=Safari">Safari</a>
+<a href="/resources/ua-list/browser-detail?browser=Samsung Browser">Samsung Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=SeaMonkey">SeaMonkey</a>
+<a href="/resources/ua-list/browser-detail?browser=Seraphic Sraf">Seraphic Sraf</a>
+<a href="/resources/ua-list/browser-detail?browser=Seznam.cz browser">Seznam.cz browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Shiira">Shiira</a>
+<a href="/resources/ua-list/browser-detail?browser=SiteKiosk">SiteKiosk</a>
+<a href="/resources/ua-list/browser-detail?browser=SkipStone">SkipStone</a>
+<a href="/resources/ua-list/browser-detail?browser=Sleipnir">Sleipnir</a>
+<a href="/resources/ua-list/browser-detail?browser=SlimBoat">SlimBoat</a>
+<a href="/resources/ua-list/browser-detail?browser=SlimBrowser">SlimBrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=Sogou Explorer">Sogou Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=Stainless">Stainless</a>
+<a href="/resources/ua-list/browser-detail?browser=Sundance">Sundance</a>
+<a href="/resources/ua-list/browser-detail?browser=Sundial">Sundial</a>
+<a href="/resources/ua-list/browser-detail?browser=Sunrise">Sunrise</a>
+<a href="/resources/ua-list/browser-detail?browser=Superbird">Superbird</a>
+<a href="/resources/ua-list/browser-detail?browser=Surf">Surf</a>
+<a href="/resources/ua-list/browser-detail?browser=Swiftfox">Swiftfox</a>
+<a href="/resources/ua-list/browser-detail?browser=Swiftweasel">Swiftweasel</a>
+<a href="/resources/ua-list/browser-detail?browser=TenFourFox">TenFourFox</a>
+<a href="/resources/ua-list/browser-detail?browser=Tesla Car Browser">Tesla Car Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=TheWorld Browser">TheWorld Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=Tjusig">Tjusig</a>
+<a href="/resources/ua-list/browser-detail?browser=TT Explorer">TT Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=UC Browser">UC Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=UltraBrowser ">UltraBrowser </a>
+<a href="/resources/ua-list/browser-detail?browser=Usejump">Usejump</a>
+<a href="/resources/ua-list/browser-detail?browser=Uzbl">Uzbl</a>
+<a href="/resources/ua-list/browser-detail?browser=Vivaldi">Vivaldi</a>
+<a href="/resources/ua-list/browser-detail?browser=Vonkeror">Vonkeror</a>
+<a href="/resources/ua-list/browser-detail?browser=w3m">w3m</a>
+<a href="/resources/ua-list/browser-detail?browser=Waterfox">Waterfox</a>
+<a href="/resources/ua-list/browser-detail?browser=Web Explorer">Web Explorer</a>
+<a href="/resources/ua-list/browser-detail?browser=Webian Shell">Webian Shell</a>
+<a href="/resources/ua-list/browser-detail?browser=WebPositive">WebPositive</a>
+<a href="/resources/ua-list/browser-detail?browser=WebRender">WebRender</a>
+<a href="/resources/ua-list/browser-detail?browser=Weltweitimnetz Browser">Weltweitimnetz Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=WIB">WIB</a>
+<a href="/resources/ua-list/browser-detail?browser=wKiosk">wKiosk</a>
+<a href="/resources/ua-list/browser-detail?browser=WorldWideWeb">WorldWideWeb</a>
+<a href="/resources/ua-list/browser-detail?browser=Wyzo">Wyzo</a>
+<a href="/resources/ua-list/browser-detail?browser=X-Smiles">X-Smiles</a>
+<a href="/resources/ua-list/browser-detail?browser=Yandex.Browser">Yandex.Browser</a>
+<a href="/resources/ua-list/browser-detail?browser=YRC Weblink">YRC Weblink</a>
+<a href="/resources/ua-list/browser-detail?browser=zBrowser">zBrowser</a>
+<a href="/resources/ua-list/browser-detail?browser=ZipZap">ZipZap</a>
