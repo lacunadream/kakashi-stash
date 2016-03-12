@@ -35,6 +35,7 @@ def f7(seq):
 def getLocality(source):
 	s = source.find("span", {"class":"locality"})
 	s = s.contents
+	s = dropList(s)
 	return s
 
 # def getID(source):
@@ -45,7 +46,14 @@ def getLocality(source):
 def getName(source):
 	x = source.find("h1", {"class":"fn"})
 	x = x.contents
+	x = dropList(x)
 	return x
+
+def getTitle(source):
+	title = source.find("p", {"class":"headline title"})
+	title = title.contents
+	title = dropList(title)
+	return title
 
 
 master = {}
@@ -70,15 +78,13 @@ def scrapStart(base):
 		k = f7(k)
 
 		loc = getLocality(source)
-		loc = dropList(loc)
+
 		base = dropList(base)
 		name = getName(source)
-		name = dropList(name)
+
 
 		try: 
-			title = source.find("p", {"class":"headline title"})
-			title = title.contents
-			title = dropList(title)
+			title = getTitle(source)
 		except:
 			title = "N/A"
 
@@ -94,15 +100,24 @@ def scrapStart(base):
 		master.update(d)
 		print(len(master))
 
-		if (len(master) % 10 == 0):
+		if (len(master) % 10):
 			with open('linkedinscrap_pia.json', 'w') as outfile:
 				json.dump(master, outfile)
 
-		for x in k:
-			if x not in track:
-				scrapStart(x)
-			else: 
-				pass
+		def nextRandom():
+			x = random.randint(0,len(k) -1)
+			return x
+
+		def nextLevel():
+			r = nextRandom()
+			print(k[r])
+			if k[r] not in track:
+				scrapStart(k[r])
+			else:
+				nextLevel()
+
+		nextLevel()
+
 	except:
 		print('##switch###')
 		lol = random.randint(0,len(track) - 1)
@@ -118,5 +133,4 @@ for x in rootURLS:
 
 for x in threads:
 	x.start()
-
 
