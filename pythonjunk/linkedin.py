@@ -9,7 +9,13 @@ import json
 
 logging.basicConfig(level = logging.ERROR)
 
-rootURLS = ["https://www.linkedin.com/in/evonnechenmayyie", 'https://www.linkedin.com/in/ericleongyittan']
+rootURLS = [
+'https://www.linkedin.com/in/fong-tuan-chen-66645836',
+"https://www.linkedin.com/in/evonnechenmayyie", 
+'https://www.linkedin.com/in/ericleongyittan', 
+'https://www.linkedin.com/in/jef0194758292',
+'https://www.linkedin.com/in/nicholas-tan-check-foong-460112b0'
+]
 
 # with open('useragents.txt') as f:
 # 	ua = f.readlines()
@@ -55,7 +61,6 @@ def scrapStart(base):
 		'User-Agent' : ua[randUA]
 	}
 	try: 
-
 		print(base)
 		r = requests.get(base, headers=headers)
 		source = bs4.BeautifulSoup(r.content, "lxml")
@@ -70,24 +75,36 @@ def scrapStart(base):
 		name = getName(source)
 		name = dropList(name)
 
+		try: 
+			title = source.find("p", {"class":"headline title"})
+			title = title.contents
+			title = dropList(title)
+		except:
+			title = "N/A"
+
 		track.append(base)
 		d = {
 			name: {
-				"location": loc
+				"location": loc,
+				"link": base, 
+				"title": title
 			}
 		}
 
 		master.update(d)
-		print(master, len(track))
+		print(len(master))
 
+		if (len(master) % 10 == 0):
+			with open('linkedinscrap_pia.json', 'w') as outfile:
+				json.dump(master, outfile)
 
-			
 		for x in k:
 			if x not in track:
 				scrapStart(x)
 			else: 
 				pass
-	except AttributeError:
+	except:
+		print('##switch###')
 		lol = random.randint(0,len(track) - 1)
 		kk = track[lol]
 		scrapStart(kk)

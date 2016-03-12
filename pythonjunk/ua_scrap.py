@@ -66,7 +66,7 @@ for x in threads:
 
 print('###########', UALIST)
 print(len(UALIST))
-f = open('useragents.txt', 'w')
+f = open('useragents_2.txt', 'w')
 for agent in UALIST:
 	f.write("%s\n" % agent)
 f.close()
