@@ -46,6 +46,11 @@ if (true) {
 }
 console.log(a); // 1
 
+// declaration vs initialization
+var a // declaration
+a = 1 // initialization 
+
+
 // Function expressions do not get fully hoisted to the top. Hence the error
 
 function test() {
