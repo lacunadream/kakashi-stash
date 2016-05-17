@@ -1,0 +1,8 @@
+[package]
+name = "gg"
+version = "0.1.0"
+authors = ["lacunadream <d.s.yong@lse.ac.uk>"]
+
+[dependencies]
+
+rand="0.3.0"
