@@ -29,27 +29,26 @@ console.log(typeof z)
 
 // var = function level scoping. ```if``` is not a function, hence the third console.log is still within the same function level scope as the second var declaration	 
 
-var x = 1;
-console.log(x); // 1
-if (true) {
-	var x = 2;
-	console.log(x); // 2
-}
-console.log(x); // 2
+// var x = 1;
+// console.log(x); // 1
+// if (true) {
+// 	var x = 2;
+// 	console.log(x); // 2
+// }
+// console.log(x); // 2
 
 // let = block level scoping. a is equal to 2 only within the middle block
-let a = 1;
-console.log(a); // 1
+let aa = 1;
+console.log(aa); // 1
 if (true) {
-	let a = 2;
-	console.log(a); // 2
+	let aa = 2;
+	console.log(aa); // 2
 }
-console.log(a); // 1
+console.log(aa); // 1
 
 // declaration vs initialization
-var a // declaration
-a = 1 // initialization 
-
+var ba // declaration
+ba = 1 // initialization 
 
 // Function expressions do not get fully hoisted to the top. Hence the error
 
@@ -65,3 +64,12 @@ function test() {
 	foo() // This runs!
 }
 test();
+
+//function declaration > variable d
+// var init > function dec
+
+function aaa(x) {
+    return x * 2;
+}
+var aaa;
+console.log(aaa)
