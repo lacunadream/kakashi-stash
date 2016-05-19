@@ -38,7 +38,7 @@ fn main() {
 	// let a = [1, 2, 3]; // a: [i32; 3]
 	// let mut m = [1, 2, 3]; // m: [i32; 3]
 
-
+	// IF
 	if x == 5{
 		println!("lol");
 	} else if x == 7 {
@@ -46,5 +46,11 @@ fn main() {
 	} else {
 		println!("ok");
 	}
+
+	// Loop
+	loop {
+	    println!("Loop forever!");
+	}
+
 }
 
