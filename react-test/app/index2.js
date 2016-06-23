@@ -1,5 +1,9 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
+// var React = require('react');
+import React from 'react'
+import ReactDOM from 'react-dom'
+// var ReactDOM = require('react-dom');
+import Home from './components/Home'
+// var Home = require('./components/Home')
 
 var UserGist = React.createClass({
   getInitialState: function() {
@@ -30,11 +34,29 @@ var UserGist = React.createClass({
       <div>
         {this.state.username}'s last gist is
         <a href={this.state.lastGistUrl}>here</a>.
+        <asdasd/>
       </div>
     );
   }
 });
 
+// class UserGist extends React.Component {
+//   render() {
+//     return 
+//     <div> hi  </div>
+//   }
+// }
+
+
+var Asdasd = React.createClass({
+  render: function() {
+    return <div> lol </div>
+
+  }
+})
+
+const KelloMessage = (props) => <div> {props.name} </div>;
+
 ReactDOM.render(
-  <UserGist source="https://api.github.com/users/octocat/gists" />,document.getElementById('app')
+  <Home name="https://api.github.com/users/octocat/gists" />,document.getElementById('app')
 );
